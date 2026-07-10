@@ -41,9 +41,9 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 ## ⚡ Stats ⚡
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyagkarle13&cache_seconds=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moulyagn&cache_seconds=0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyagkarle13&layout=compact&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulyagn&layout=compact&cache_seconds=0" />
 </p>
