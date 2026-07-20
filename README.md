@@ -19,7 +19,7 @@ I enjoy solving problems, deploying projects, and continuously improving my tech
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="gnmoulyaa@gmail.com">
+  <a href="mailto:gnmoulyaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
